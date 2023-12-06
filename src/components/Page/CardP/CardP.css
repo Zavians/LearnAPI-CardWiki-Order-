@@ -1,0 +1,33 @@
+/* styles.css (atau nama file yang sesuai) */
+
+/* Container styling */
+.CardPContainer {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  /* Card styling */
+  .PokemonCard {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+    text-align: center;
+  }
+  
+  /* Image styling */
+  .PokemonImage {
+    max-width: 100%;
+    height: auto;
+    border-radius: 4px;
+    margin-bottom: 10px;
+  }
+  
+  /* Name styling */
+  .PokemonName {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0;
+  }
+  

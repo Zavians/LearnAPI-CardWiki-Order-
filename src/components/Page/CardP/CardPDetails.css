@@ -1,0 +1,48 @@
+/* CardYDetails.css */
+.card-details {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    border-radius: 8px;
+    margin-top: 20px;
+  }
+  
+  .card-details img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 4px;
+    margin-bottom: 15px;
+  }
+  
+  .card-details h2 {
+    color: #333;
+    margin-bottom: 15px;
+  }
+  
+  .card-details p {
+    color: #666;
+    margin-bottom: 10px;
+  }
+  
+  .card-details button {
+    background-color: #3498db;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .card-details button:hover {
+    background-color: #2980b9;
+  }
+  
+  .loading {
+    text-align: center;
+    font-size: 18px;
+    color: #666;
+    margin-top: 20px;
+  }
+  
